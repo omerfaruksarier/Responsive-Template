@@ -8,7 +8,7 @@
 * [Comparable Properties](#comparable_property_page)
 * [Marketing Price](https://project.pinek.online/#comparable_property_page)
 * [Marketing Plan](https://project.pinek.online/#comparable_property_page)
-* [Faq](https://project.pinek.online/#footer_div)
+* [Faq](https://project.pinek.online/#question_page)
 <!-- * [License](#license) -->
 
 ## General Information
