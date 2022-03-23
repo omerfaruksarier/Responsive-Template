@@ -3,12 +3,12 @@
 > Live demo [_here_](https://project.pinek.online/).
 
 ## Table of Contents
-* [Home](#home_page)
-* [About](#property_page)
+* [Home](https://project.pinek.online/#home_page)
+* [About](https://project.pinek.online/#property_page)
 * [Comparable Properties](#comparable_property_page)
-* [Marketing Price](#marketing_plan_page)
-* [Marketing Plan](#marketing_plan_page)
-* [Faq](#question_page)
+* [Marketing Price](https://project.pinek.online/#comparable_property_page)
+* [Marketing Plan](https://project.pinek.online/#comparable_property_page)
+* [Faq](https://project.pinek.online/#footer_div)
 <!-- * [License](#license) -->
 
 ## General Information
