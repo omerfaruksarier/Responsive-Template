@@ -35,4 +35,4 @@ To do:
 
 
 ## Contact
-Created by Ömer Faruk Sarıer - sarier.omer.faruk@gmail.com
+Created by Ömer Faruk Sarıer - sarier.omer.faruk@gmail.com -https://omerfaruksarier.com/
